@@ -13,7 +13,7 @@ class Main extends PluginBase {
 
     private $economyPlugin;
 
-    public function onEnable(): void {
+    public function onEnable() {
         $this->getLogger()->info("JobUINa has been enabled!");
 
         // Initialize EconomyHb
