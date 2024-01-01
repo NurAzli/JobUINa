@@ -6,6 +6,6 @@ projects:
   JobUINa:
     path: ""
     icon: icon.png
-    libs:
-  - src: jojoe77777/FormUI/libsFormUI
+    lib:
+        - src: jojoe77777/FormUI/libsFormUI
 ...
