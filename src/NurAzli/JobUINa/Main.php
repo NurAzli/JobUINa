@@ -7,7 +7,7 @@ use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
 use pocketmine\player\Player;
 use jojoe77777\FormAPI\SimpleForm;
-use EconomyHb\Main;
+use EconomyHb\EconomyHb;
 
 class Main extends PluginBase {
 
