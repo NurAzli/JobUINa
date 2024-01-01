@@ -1,6 +1,6 @@
 <?php
 
-namespace JobUINa;
+namespace NurAzli\JobUINa;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\command\Command;
