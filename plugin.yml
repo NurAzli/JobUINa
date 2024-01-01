@@ -2,5 +2,5 @@ name: JobUINa
 version: 1.0.0
 api: 5.0.0
 author: NurAzliYT
-main: JobUINa\Main
+main: NurAzli\JobUINa\Main
 depend: EconomyHb
